@@ -1,5 +1,5 @@
 # twitch-code
-Links to the source code of everything I stream on twitch [https://www.twitch.tv/vj525][vj525 on twitch]
+Links to the source code of everything I stream on twitch [vj525 on twitch](https://www.twitch.tv/vj525)
 
 
 |  Name of Stream 	|  Link to code 	| 
